@@ -1,0 +1,8 @@
+{
+    "botShape": "default",
+    "path": "/",
+    "mat": "Alphabet Mat",
+    "type": "Bee-Bot",
+    "commands": "rt,fd,lt,fd,lt,fd,fd,fd,fd,rt,fd,rt,fd,fd,fd,fd,lt,fd,lt,fd,fd,fd,fd,lt,fd,fd,fd,fd,fd,lt,fd,lt,fd,fd,fd,fd,fd,lt,fd,lt,fd,fd,fd,fd,lt,fd,lt,fd,fd,fd,fd,lt,fd,bk,bk,bk,lt,fd,ps,rt,fd,fd,rt,fd,lt,fd,lt,fd,lt,fd,lt,fd,bk,bk,bk,fd,lt,lt,fd,fd,rt,fd",
+    "visible": true
+}
